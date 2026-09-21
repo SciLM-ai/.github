@@ -1,8 +1,8 @@
-# SciLM
+# SciLM.ai
 
 **The AI model that can see science.**
 
-SciLM (Scientific Language Model) generates scientific simulation data at a scale no experiment can reach, and is building a multimodal foundation model that reads and writes scientific data in its native form: atoms as 3D geometry, reservoirs as 3D volumes.
+SciLM.ai (Scientific Language Model) generates scientific simulation data at a scale no experiment can reach, and is building a multimodal foundation model that reads and writes scientific data in its native form: atoms as 3D geometry, reservoirs as 3D volumes.
 
 Website: https://www.scilm.ai · Datasets and models: https://huggingface.co/SciLM · Contact: ilgar@scilm.ai
 
