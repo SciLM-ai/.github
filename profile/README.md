@@ -19,5 +19,5 @@ Website: https://www.scilm.ai · Datasets and models: https://huggingface.co/Sci
 
 ## Datasets (CC-BY 4.0)
 
-- [MaterialsSaddles](https://huggingface.co/datasets/SciLM/MaterialsSaddles): 34.14 M reactions, 102.4 M structures.
+- [MaterialsSaddles](https://huggingface.co/datasets/SciLM/MaterialsSaddles): 32.0 M reactions, 96.1 M structures.
 - [SiliciclasticReservoirs](https://huggingface.co/datasets/SciLM/SiliciclasticReservoirs): 1,000,000 3D reservoir models across eight depositional architectures.
